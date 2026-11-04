@@ -1,0 +1,29 @@
+Iterating forward through list
+Employee 1: Yearly Salary: $30000
+Employee 2: Yearly Salary: $35000
+Employee 3: Rate per piece: $60 | Pieces made: $2000
+Employee 4: Rate per piece: $40 | Pieces made: $3500
+Employee 5: Yearly Salary: $100000
+Employee 6: Commission: $30000 | Yearly Base: $60000
+
+Iterating forward here is each monthlyPay
+Employee 1: $2500
+Employee 2: $2916
+Employee 3: $120000
+Employee 4: $140000
+Employee 5: $8333
+Employee 6: $35000
+
+Iterating forward after removal
+Employee 1: Yearly Salary: $35000
+Employee 2: Rate per piece: $60 | Pieces made: $2000
+Employee 3: Rate per piece: $40 | Pieces made: $3500
+Employee 4: Yearly Salary: $100000
+Employee 5: Commission: $30000 | Yearly Base: $60000
+
+Contents of array
+Employee 1: Yearly Salary: $35000
+Employee 2: Rate per piece: $60 | Pieces made: $2000
+Employee 3: Rate per piece: $40 | Pieces made: $3500
+Employee 4: Yearly Salary: $100000
+Employee 5: Commission: $30000 | Yearly Base: $60000
